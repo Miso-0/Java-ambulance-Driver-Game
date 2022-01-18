@@ -1,0 +1,12 @@
+Controls
+
+W,S,D,A
+
+W ->Move the Ambulance UP  
+S ->Move the Ambulance DOWN
+D ->Move the Ambulance LEFT
+A ->Move the Ambulance RIGHT
+
+Easy right?!!
+Good Luck , Now go Save lives!!!!!!
+

@@ -1,0 +1,21 @@
+Game Description
+- Game Category: Racer.
+- Game Subcategory: Adventure
+- Game Genre: Medical
+- Game Design Pattern: Abstract factory Design Pattern
+
+Objective - The Objective of the Game is to save as many
+            patients as possible the more patients the game player
+            transport to the hospital it is the more, they gain
+            experience(score) and be able to procced to the next
+            level.
+ii. Rules
+– The player must drive and transport the patients
+without any of them dying.
+iii. Win Condition
+ – If the player drives the ambulance to the
+hospital within the given time, the player gains
+experience.
+iv. Lose Condition 
+– If the time runs out before the player
+reaches the hospital, the player gets fired.
